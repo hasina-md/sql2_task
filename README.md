@@ -5,7 +5,7 @@
 ##### Each day people spend money on varius things. Each transaction holds a bunch of meta (meta data is a data that provides/describes information of other data.)information.  instead of going to waste, that information can be used to learn about one's tendencies. What percentage of money is spent on food? on transport? travlling?  how expensive are the cities that were visited? how much money is spent daily? weekly? mothly? We use
 > The DATA EXPENSES TRACKER.
 
-#### Here is the sample data of expenditure of a person (Ravi)
+#### Here is the sample data of expenditure of a person 
 
 > All we need to create a data base, a table, insert the columns in the table, insert the sample data information, as given below;
 
